@@ -1,0 +1,1 @@
+This is a quiz application that allows an adminstrator/tutor create different categories of questions for their students/clients. The project then allows the clients to choose the questions according to different categories and submit their answers. At last, the application calculates the marks attained and posts them as output
